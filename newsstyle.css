@@ -1,0 +1,971 @@
+.NewsPage{
+    width: 1920px;
+    height: 4682px;
+    position: relative;
+    background: #363636;
+}
+.Rectangle1{
+    width: 1920px;
+    height: 209px;
+    left: 0px;
+    top: 100px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, rgba(54, 54, 54, 0.50) 32%, rgba(54, 54, 54, 0.50) 70%, black 100%);
+}
+.Rectangle2{
+    width: 1920px;
+    height: 795px;
+    left: 0px;
+    top: 917px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, rgba(54, 54, 54, 0.50) 32%, rgba(54, 54, 54, 0.50) 70%, black 100%);
+}
+.Rectangle3{
+    width: 1920px;
+    height: 1132px;
+    left: 0px;
+    top: 2387px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, rgba(54, 54, 54, 0.50) 32%, rgba(54, 54, 54, 0.50) 70%, black 100%);
+}
+.Rectangle4{
+    width: 1920px;
+    height: 608px;
+    left: 0px;
+    top: 309px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, #0D345C 33%, #0B2D4A 67%, black 100%);
+}
+.Rectangle5{
+    width: 1920px;
+    height: 684px;
+    left: 0px;
+    top: 1715px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, #0D345C 33%, #0B2D4A 67%, black 100%);
+}
+.Rectangle6{
+    width: 1920px;
+    height: 701px;
+    left: 0px;
+    top: 3519px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, #0D345C 33%, #0B2D4A 67%, black 100%);
+}
+.Navbar{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: sticky;
+    z-index: 999;
+}
+.Navigation{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+    border-bottom: 5px white solid;
+}
+.CCSFP{
+    left: 191px;
+    top: 23px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    word-wrap: break-word
+}
+.ItLogo{
+    width: 76px;
+    height: 71px;
+    left: 100px;
+    top: 15px;
+    position: absolute;
+}
+.Nav{
+    width: 909px;
+    height: 52px;
+    left: 911px;
+    top: 23px;
+    position: absolute;
+}
+.Navbar a{
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    position: absolute;
+    word-wrap: break-word;
+    top: 0px;
+    text-decoration: none;
+    transition: .45s;
+}
+.Navbar a:hover{
+    cursor: pointer;
+    color: #185D89;
+}
+.Home{
+    left: 0px;
+}
+.About{
+    left: 163px;
+}
+.Gallery{
+    left: 357px;
+}
+.News{
+    left: 596px;
+}
+.Contact{
+    left: 763px;
+}
+.NewsAndUpdates{
+    width: 1085px;
+    height: 175px;
+    left: 454px;
+    top: 150px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 96px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 700;
+    letter-spacing: 5.76px;
+    word-wrap: break-word;
+}
+.News1{
+    width: 1720px;
+    height: 608px;
+    left: 100px;
+    top: 309px;
+    position: absolute;
+}
+.Rectangle7{
+    width: 1720px;
+    height: 608px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle8{
+    width: 780px;
+    height: 127px;
+    left: 50px;
+    top: 50px;
+    position: absolute;
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%);
+    border-radius: 40px;
+    border: 3px white solid;
+}
+.NewBatch{
+    width: 780px;
+    height: 518px;
+    left: 890px;
+    top: 50px;
+    position: absolute;
+}
+.Image1{
+    width: 249.92px;
+    height: 244.22px;
+    left: 530.08px;
+    top: 273.78px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #195F8C solid;
+}
+.Image2{
+    width: 249.92px;
+    height: 244.22px;
+    left: 530.08px;
+    top: 0px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #1A638F solid;
+}
+.Image3{
+    width: 504.61px;
+    height: 518px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #185D89 solid;
+}
+.fam{
+    width: 775px;
+    height: 47px;
+    left: 52px;
+    top: 227px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2.10px;
+    word-wrap: break-word;
+}
+.list{
+    width: 780px;
+    height: 150px;
+    left: 50px;
+    top: 324px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1.56px;
+    word-wrap: break-word;
+}
+.ItPeeps{
+    left: 99px;
+    top: 86px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 2.88px;
+    word-wrap: break-word;
+}
+.Group1{
+    width: 204px;
+    height: 55px;
+    left: 338px;
+    top: 513px;
+    position: absolute;
+}
+.SeePost1{
+    width: 204px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #300000 0%, #DD0000 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.SeePost1:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.News2{
+    width: 1720px;
+    height: 695px;
+    left: 100px;
+    top: 967px;
+    position: absolute;
+}
+.Rectangle10{
+    width: 1720px;
+    height: 695px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle11{
+    width: 780px;
+    height: 127px;
+    left: 896px;
+    top: 50px;
+    position: absolute;
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%);
+    border-radius: 40px;
+    border: 3px white solid;
+}
+.ItPeeps2{
+    width: 671px;
+    height: 580px;
+    left: 107px;
+    top: 50px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #185D89 solid;
+}
+.Aslag{
+    left: 984px;
+    top: 227px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2.10px;
+    word-wrap: break-word;
+}
+.fourthyear{
+    width: 770px;
+    height: 150px;
+    left: 896px;
+    top: 330px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1.56px;
+    word-wrap: break-word;
+}
+.Congrats4thyear{
+    width: 770px;
+    left: 896px;
+    top: 61px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 46px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 2.76px;
+    word-wrap: break-word;
+}
+.Group2{
+    width: 204px;
+    height: 55px;
+    left: 1184px;
+    top: 530px;
+    position: absolute;
+}
+.SeePost2{
+    width: 204px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #300000 0%, #DD0000 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.SeePost2:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.News3{
+    width: 1720px;
+    height: 687px;
+    left: 100px;
+    top: 1712px;
+    position: absolute;
+}
+.Rectangle12{
+    width: 1720px;
+    height: 687px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle13{
+    width: 780px;
+    height: 127px;
+    left: 50px;
+    top: 50px;
+    position: absolute;
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%);
+    border-radius: 40px;
+    border: 3px white solid;
+}
+.ccsfpfam{
+    left: 101px;
+    top: 224px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2.10px;
+    word-wrap: break-word;
+}
+.congratssirlaw{
+    width: 780px;
+    height: 150px;
+    left: 50px;
+    top: 324px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 26px;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 400;
+    letter-spacing: 1.56px; 
+    word-wrap: break-word;
+}
+.SirLaw{
+    width: 681px; 
+    height: 583px; 
+    left: 939px; 
+    top: 50px; 
+    position: absolute; 
+    border-radius: 15px; 
+    border: 3px #185D89 solid;
+}
+.LuidKaSirLaw{
+    left: 226px; 
+    top: 86px; 
+    position: absolute;
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.88px; 
+    word-wrap: break-word;
+}
+.Group3{
+    width: 204px;
+    height: 55px;
+    left: 340px;
+    top: 570px;
+    position: absolute;
+}
+.SeePost3{
+    width: 204px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #300000 0%, #DD0000 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.SeePost3:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.News4{
+    width: 1720px;
+    height: 1017px; 
+    left: 100px; 
+    top: 2452px; 
+    position: absolute;
+}
+.Rectangle14{
+    width: 1720px; 
+    height: 1017px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(0, 0, 0, 0.50); 
+    border-radius: 50px; 
+    border: 3px white solid;
+}
+.Rectangle15{
+    width: 780px; 
+    height: 127px; 
+    left: 896px; 
+    top: 50px; 
+    position: absolute; 
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%); 
+    border-radius: 40px; 
+    border: 3px white solid;
+}
+.Karsten{
+    width: 677px; 
+    height: 691px; 
+    left: 105px; 
+    top: 83px; 
+    position: absolute; 
+    border-radius: 15px; 
+    border: 3px #185D89 solid;
+}
+.LuidKaKarsten{
+    width: 780px; 
+    left: 896px; 
+    top: 227px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 35px; 
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+.KarstenMungcal{
+    width: 780px; 
+    height: 584px; 
+    left: 896px; 
+    top: 383px;
+    position: absolute; 
+    color: white; 
+    font-size: 26px; 
+    font-family: "Poppins", sans-serif;
+    font-weight: 400; 
+    letter-spacing: 1.56px; 
+    word-wrap: break-word;
+}
+.CongratsKarsten{
+    width: 770px; 
+    left: 896px; 
+    top: 61px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 46px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.76px; 
+    word-wrap: break-word;
+}
+.Group4{
+    width: 204px;
+    height: 55px;
+    left: 330px;
+    top: 850px;
+    position: absolute;
+}
+.SeePost4{
+    width: 204px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #300000 0%, #DD0000 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.SeePost4:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.News5{
+    width: 1720px; 
+    height: 651px; 
+    left: 100px; 
+    top: 3519px; 
+    position: absolute;
+}
+.Rectangle16{
+    width: 1720px; 
+    height: 651px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(0, 0, 0, 0.50); 
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle17{
+    width: 780px; 
+    height: 127px; 
+    left: 50px; 
+    top: 50px; 
+    position: absolute; 
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%); 
+    border-radius: 40px; 
+    border: 3px white solid;
+}
+.ITOfficers{
+    width: 780px; 
+    height: 97px; 
+    left: 50px; 
+    top: 224px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white;
+    font-size: 35px; 
+    font-family: "Poppins", sans-serif;
+    font-weight: 700; 
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+.ItDeptOfficers{
+    width: 780px; 
+    height: 220px; 
+    left: 50px; 
+    top: 368px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 26px; 
+    font-family: "Poppins", sans-serif;
+    font-weight: 400; 
+    letter-spacing: 1.56px;
+    word-wrap: break-word;    
+}
+.Officers{
+    width: 780px; 
+    height: 409px; 
+    left: 890px; 
+    top: 86px; 
+    position: absolute; 
+    border-radius: 15px; 
+    border: 3px #185D89 solid;
+}
+.NewlyElectedOfficers{
+    left: 150px; 
+    top: 86px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.88px; 
+    word-wrap: break-word;
+}
+.Group5{
+    width: 204px;
+    height: 55px;
+    left: 1185px;
+    top: 550px;
+    position: absolute;
+}
+.SeePost5{
+    width: 204px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #300000 0%, #DD0000 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.SeePost5:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.Footer{
+    width: 1920px;
+    height: 462px;
+    left: -1px;
+    top: 4215px;
+    position: absolute;
+}
+.Rectangle20{
+    width: 1920px;
+    height: 462px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+}
+.divide{
+    width: 284.02px;
+    height: 0px;
+    left: 1150px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line2{
+    width: 284.02px;
+    height: 0px;
+    left: 753px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line3{
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 388px;
+    position: absolute;
+    border: 3px white solid;
+}
+.ReachUs{
+    left: 101px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.brgy{
+    width: 630px;
+    height: 70px;
+    left: 175px;
+    top: 123px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.HOME{
+    left: 825px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ccsfp{
+    left: 1262px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.CCSFPIT{
+    left: 1262px;
+    top: 212px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.website{
+    left: 1262px;
+    top: 279px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: underline;
+}
+.number{
+    left: 175px;
+    top: 287px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.Info{
+    left: 175px;
+    top: 217px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.QuickLinks{
+    left: 780px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.ConnectWithUs{
+    width: 446px;
+    left: 1183px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.loc{
+    width: 40px;
+    height: 42px;
+    left: 115px;
+    top: 137px;
+    position: absolute;
+}
+.email{
+    width: 38px;
+    height: 31px;
+    left: 115px;
+    top: 219px;
+    position: absolute;
+}
+.phone{
+    width: 35px;
+    height: 35px;
+    left: 117px;
+    top: 287px;
+    position: absolute;
+}
+.NEWS{
+    left: 825px;
+    top: 253px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.GALLERY{
+    left: 825px;
+    top: 214px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ABOUT{
+    left: 825px;
+    top: 174px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ARR{
+    left: 525px;
+    top: 408px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.fb1{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 129px;
+    position: absolute;
+}
+.fb2{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 207px;
+    position: absolute;
+}
+.web{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 273px;
+    position: absolute;
+}
+.copyright{
+    width: 20px;
+    height: 21.05px;
+    left: 499px;
+    top: 415px;
+    position: absolute;
+}
+.Arrow1{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 137px;
+    position: absolute;
+}
+.Arrow2{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 177px;
+    position: absolute;
+}
+.Arrow3{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 217px;
+    position: absolute;
+}
+.Arrow4{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 257px;
+    position: absolute;
+}

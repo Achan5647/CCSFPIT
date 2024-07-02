@@ -1,0 +1,440 @@
+.ContactPage{
+    width: 1920px;
+    height: 1400px;
+    position: relative;
+    background: #363636;
+}
+.Cover{
+    width: 1920px;
+    height: 900px;
+    left: 0px;
+    top: 100px;
+    position: absolute;
+}
+.CoverPhoto{
+    width: 1920px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+.CoverOverlay{
+    width: 1920px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.66) 30%, rgba(0, 0, 0, 0.65) 74%, black 100%);
+}
+.ItPhotoroom1{
+    width: 436px;
+    height: 438px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+.Navbar{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: sticky;
+    z-index: 999;
+}
+.Navigation{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+    border-bottom: 5px white solid;
+}
+.CCSFP{
+    left: 191px;
+    top: 23px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    word-wrap: break-word
+}
+.ItLogo{
+    width: 76px;
+    height: 71px;
+    left: 100px;
+    top: 15px;
+    position: absolute;
+}
+.Nav{
+    width: 909px;
+    height: 52px;
+    left: 911px;
+    top: 23px;
+    position: absolute;
+}
+.Navbar a{
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    position: absolute;
+    word-wrap: break-word;
+    top: 0px;
+    text-decoration: none;
+    transition: .45s;
+}
+.Navbar a:hover{
+    cursor: pointer;
+    color: #185D89;
+}
+.Home{
+    left: 0px;
+}
+.About{
+    left: 163px;
+}
+.Gallery{
+    left: 357px;
+}
+.News{
+    left: 596px;
+}
+.Contact{
+    left: 763px;
+}
+.Title{
+    width: 958px;
+    height: 531px;
+    left: 445px;
+    top: 171px;
+    position: absolute;
+}
+.line_1{
+    width: 397px;
+    height: 0px;
+    left: 480px;
+    top: 422px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 7px white solid;
+}
+.ItLogo1{
+    width: 436px;
+    height: 438px;
+    left: 7px;
+    top: 0px;
+    position: absolute;
+}
+.CcsfpLogo{
+    width: 408px;
+    height: 408px;
+    left: 517px;
+    top: 15px;
+    position: absolute;
+}
+.OneOfUs{
+    left: 0px;
+    top: 453px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    letter-spacing: 3.84px;
+    word-wrap: break-word;
+}
+.Footer{
+    width: 1920px;
+    height: 462px;
+    left: -1px;
+    top: 1000px;
+    position: absolute;
+}
+.Rectangle11{
+    width: 1920px;
+    height: 462px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+}
+.divide{
+    width: 284.02px;
+    height: 0px;
+    left: 1150px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line2{
+    width: 284.02px;
+    height: 0px;
+    left: 753px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line3{
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 388px;
+    position: absolute;
+    border: 3px white solid;
+}
+.ReachUs{
+    left: 101px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.brgy{
+    width: 630px;
+    height: 70px;
+    left: 175px;
+    top: 123px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.HOME{
+    left: 825px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ccsfp{
+    left: 1262px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.CCSFPIT{
+    left: 1262px;
+    top: 212px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.website{
+    left: 1262px;
+    top: 279px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: underline;
+}
+.number{
+    left: 175px;
+    top: 287px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.Info{
+    left: 175px;
+    top: 217px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.QuickLinks{
+    left: 780px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.ConnectWithUs{
+    width: 446px;
+    left: 1183px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.loc{
+    width: 40px;
+    height: 42px;
+    left: 115px;
+    top: 137px;
+    position: absolute;
+}
+.email{
+    width: 38px;
+    height: 31px;
+    left: 115px;
+    top: 219px;
+    position: absolute;
+}
+.phone{
+    width: 35px;
+    height: 35px;
+    left: 117px;
+    top: 287px;
+    position: absolute;
+}
+.NEWS{
+    left: 825px;
+    top: 253px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.GALLERY{
+    left: 825px;
+    top: 214px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ABOUT{
+    left: 825px;
+    top: 174px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ARR{
+    left: 525px;
+    top: 408px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.fb1{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 129px;
+    position: absolute;
+}
+.fb2{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 207px;
+    position: absolute;
+}
+.web{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 273px;
+    position: absolute;
+}
+.copyright{
+    width: 20px;
+    height: 21.05px;
+    left: 499px;
+    top: 415px;
+    position: absolute;
+}
+.Arrow1{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 137px;
+    position: absolute;
+}
+.Arrow2{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 177px;
+    position: absolute;
+}
+.Arrow3{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 217px;
+    position: absolute;
+}
+.Arrow4{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 257px;
+    position: absolute;
+}

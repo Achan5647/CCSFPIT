@@ -1,0 +1,907 @@
+.MainPage{
+    width: 1920px;
+    height: 2940px;
+    position: relative;
+    background: #363636;
+}
+.Cover{
+    width: 1920px;
+    height: 900px;
+    left: 0px;
+    top: 100px;
+    position: absolute;
+}
+.CoverPhoto{
+    width: 1920px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+.CoverOverlay{
+    width: 1920px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.66) 30%, rgba(0, 0, 0, 0.65) 74%, black 100%);
+}
+.Title{
+    width: 982px;
+    height: 438px;
+    left: 487px;
+    top: 331px;
+    position: absolute;
+}
+.IT{
+    width: 490px;
+    height: 250px;
+    left: 525px;
+    top: 94px;
+    position: absolute;
+    color: white;
+    font-size: 64px;
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    letter-spacing: 3.84px;
+    word-wrap: break-word;
+}
+.Line1{
+    width: 397px;
+    height: 0px;
+    left: 473px;
+    top: 422px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 5px white solid;
+}
+.ItPhotoroom1{
+    width: 436px;
+    height: 438px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+.Navbar{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: sticky;
+    z-index: 999;
+}
+.Navigation{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+    border-bottom: 5px white solid;
+}
+.CCSFP{
+    left: 191px;
+    top: 23px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    word-wrap: break-word
+}
+.ItLogo{
+    width: 76px;
+    height: 71px;
+    left: 100px;
+    top: 15px;
+    position: absolute;
+}
+.Nav{
+    width: 909px;
+    height: 52px;
+    left: 911px;
+    top: 23px;
+    position: absolute;
+}
+.Navbar a{
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    position: absolute;
+    word-wrap: break-word;
+    top: 0px;
+    text-decoration: none;
+    transition: .45s;
+}
+.Navbar a:hover{
+    cursor: pointer;
+    color: #185D89;
+}
+.Home{
+    left: 0px;
+}
+.About{
+    left: 163px;
+}
+.Gallery{
+    left: 357px;
+}
+.News{
+    left: 596px;
+}
+.Contact{
+    left: 763px;
+}
+.Rectangle1{
+    width: 1920px;
+    height: 1005px;
+    left: 0px;
+    top: 1000px;
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, #363636 32%, #363636 70%, black 100%);
+}
+.Updates{
+    width: 485px;
+    height: 120px;
+    left: 720px;
+    top: 1035px;
+    position: absolute;
+    color: white;
+    font-size: 96px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 700;
+    letter-spacing: 5.76px;
+    word-wrap: break-word;
+}
+.Group1{
+    width: 540px;
+    height: 905px;
+    left: 100px;
+    top: 1050px;
+    position: absolute;
+}
+.Rectangle2{
+    width: 540px;
+    height: 905px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle3{
+    width: 490px;
+    height: 184.39px;
+    left: 25px;
+    top: 35px;
+    position: absolute;
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%);
+    border-radius: 40px;
+    border: 3px white solid;
+}
+.Group2{
+    width: 540px;
+    height: 677px;
+    left: 689px;
+    top: 1173px;
+    position: absolute;
+}
+.Rectangle4{
+    width: 540px;
+    height: 677px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle5{
+    width: 490px;
+    height: 128px;
+    left: 25px;
+    top: 34px;
+    position: absolute;
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%);
+    border-radius: 40px;
+    border: 3px white solid;
+}
+.Group3{
+    width: 185px;
+    height: 55px;
+    left: 177px;
+    top: 587px;
+    position: absolute;
+}
+.Readmore1{
+    width: 185px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #665000 0%, #F0B300 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+    transition: .45s;
+}
+.Readmore1:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.Group4{
+    width: 435px;
+    height: 55px;
+    left: 742px;
+    top: 1900px;
+    position: absolute;
+}
+.NewsUpdates{
+    width: 435px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #300000 0%, #DD0000 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+    transition: .45s;
+}
+.NewsUpdates:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, #2e82ff 0%, #022752 100%);
+}
+.ItPeeps{
+    width: 454px;
+    height: 114px;
+    left: 143px;
+    top: 1116px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 2.88px;
+    word-wrap: break-word;
+}
+
+.Group5{
+    width: 490px;
+    height: 329px;
+    left: 125px;
+    top: 1294px;
+    position: absolute;
+}
+.Image1{
+    width: 157px;
+    height: 155.11px;
+    left: 333px;
+    top: 173.89px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #195F8C solid;
+}
+.Image2{
+    width: 157px;
+    height: 155.11px;
+    left: 333px;
+    top: 0px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #1A638F solid;
+}
+.Image3{
+    width: 317px;
+    height: 329px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #185D89 solid;
+}
+.Luid{
+    width: 490px;
+    height: 30px;
+    left: 125px;
+    top: 1647px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.ccsfpfam{
+    left: 742px;
+    top: 1606px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+}
+.list{
+    width: 490px;
+    height: 150px;
+    left: 125px;
+    top: 1689px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1.20px;
+    word-wrap: break-word;
+}
+.Congratulations{
+    width: 490px;
+    height: 135px;
+    left: 715px;
+    top: 1647px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1.20px;
+    word-wrap: break-word;
+}
+.Group6{
+    width: 185px;
+    height: 55px;
+    left: 278px;
+    top: 1864px;
+    position: absolute;
+}
+.Readmore2{
+    width: 185px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #665000 0%, #F0B300 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+    transition: .45s;
+}
+.Readmore2:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.Group7{
+    width: 540px;
+    height: 905px;
+    left: 1280px;
+    top: 1050px;
+    position: absolute;
+}
+.Rectangle7{
+    width: 540px;
+    height: 905px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 50px;
+    border: 3px white solid;
+}
+.Rectangle8{
+    width: 490px;
+    height: 184.39px;
+    left: 25px;
+    top: 35px;
+    position: absolute;
+    background: linear-gradient(180deg, #04123A 0%, #2FAFE0 100%);
+    border-radius: 40px;
+    border: 3px white solid;
+}
+.fourthYear{
+    width: 454px;
+    height: 114px;
+    left: 1323px;
+    top: 1116px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 2.88px;
+    word-wrap: break-word;
+}
+.SirLaw{
+    left: 745px;
+    top: 1243px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 2.88px;
+    word-wrap: break-word;
+}
+.Image4{
+    width: 317px;
+    height: 333px;
+    left: 1391px;
+    top: 1294px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #185D89 solid;
+}
+.Image5{
+    width: 250px;
+    height: 232px;
+    left: 835px;
+    top: 1355px;
+    position: absolute;
+    border-radius: 15px;
+    border: 3px #185D89 solid;
+}
+.Aslag{
+    left: 1343px;
+    top: 1646px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.44px;
+    word-wrap: break-word;
+}
+.CivilService{
+    width: 490px;
+    height: 150px;
+    left: 1305px;
+    top: 1687px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1.20px;
+    word-wrap: break-word;
+}
+.Group8{
+    width: 185px;
+    height: 55px;
+    left: 1457px;
+    top: 1864px;
+    position: absolute;
+}
+.Readmore3{
+    width: 185px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, #665000 0%, #F0B300 100%);
+    border-radius: 20px;
+    border: 3px #D9D9D9 solid;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: 700;
+    letter-spacing: 1.32px;
+    word-wrap: break-word;
+    transition: .45s;
+}
+.Readmore3:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, red 0%, #80061a 100%);
+}
+.Group9{
+    width: 1933px;
+    height: 933px;
+    left: -1px;
+    top: 2003px;
+    position: absolute;
+}
+.background_2{
+    width: 1931.99px;
+    height: 933px;
+    left: 1.01px;
+    top: 0px;
+    position: absolute;
+}
+.Rectangle9{
+    width: 1931.99px;
+    height: 933px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(180deg, black 9%, rgba(0, 0, 0, 0.53) 41%, rgba(0, 0, 0, 0.53) 60%, black 100%);
+}
+.Events{
+    width: 404px;
+    height: 120px;
+    left: 168px;
+    top: 2040px;
+    position: absolute;
+    color: white;
+    font-size: 96px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 700;
+    letter-spacing: 5.76px;
+    word-wrap: break-word;
+}
+.Rectangle10{
+    width: 540px;
+    height: 670px;
+    left: 100px;
+    top: 2216px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.50);
+    border-radius: 60px;
+    border: 3px white solid;
+}
+.Aztech{
+    width: 427px;
+    height: 385px;
+    left: 157px;
+    top: 2470px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.44px;
+    word-wrap: break-word;
+}
+.Group10{
+    width: 1650px;
+    height: 831px;
+    left: 170px;
+    top: 2055px;
+    position: absolute;
+}
+.Image6{
+    width: 1130px;
+    height: 831px;
+    left: 520px;
+    top: 0px;
+    position: absolute;
+    border-radius: 70px;
+    border: 3px white solid;
+}
+.ItDaysChampion{
+    width: 401px;
+    height: 191px;
+    left: 0px;
+    top: 200px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: 3.84px;
+    word-wrap: break-word;
+}
+.Footer{
+    width: 1920px;
+    height: 462px;
+    left: -1px;
+    top: 2936px;
+    position: absolute;
+}
+.Rectangle11{
+    width: 1920px;
+    height: 462px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+}
+.divide{
+    width: 284.02px;
+    height: 0px;
+    left: 1150px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line2{
+    width: 284.02px;
+    height: 0px;
+    left: 753px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line3{
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 388px;
+    position: absolute;
+    border: 3px white solid;
+}
+.ReachUs{
+    left: 101px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.brgy{
+    width: 630px;
+    height: 70px;
+    left: 175px;
+    top: 123px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.HOME{
+    left: 825px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ccsfp{
+    left: 1262px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.CCSFPIT{
+    left: 1262px;
+    top: 212px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.website{
+    left: 1262px;
+    top: 279px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: underline;
+}
+.number{
+    left: 175px;
+    top: 287px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.Info{
+    left: 175px;
+    top: 217px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.QuickLinks{
+    left: 780px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.ConnectWithUs{
+    width: 446px;
+    left: 1183px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.loc{
+    width: 40px;
+    height: 42px;
+    left: 115px;
+    top: 137px;
+    position: absolute;
+}
+.email{
+    width: 38px;
+    height: 31px;
+    left: 115px;
+    top: 219px;
+    position: absolute;
+}
+.phone{
+    width: 35px;
+    height: 35px;
+    left: 117px;
+    top: 287px;
+    position: absolute;
+}
+.NEWS{
+    left: 825px;
+    top: 253px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.GALLERY{
+    left: 825px;
+    top: 214px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ABOUT{
+    left: 825px;
+    top: 174px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ARR{
+    left: 525px;
+    top: 408px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.fb1{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 129px;
+    position: absolute;
+}
+.fb2{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 207px;
+    position: absolute;
+}
+.web{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 273px;
+    position: absolute;
+}
+.copyright{
+    width: 20px;
+    height: 21.05px;
+    left: 499px;
+    top: 415px;
+    position: absolute;
+}
+.Arrow1{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 137px;
+    position: absolute;
+}
+.Arrow2{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 177px;
+    position: absolute;
+}
+.Arrow3{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 217px;
+    position: absolute;
+}
+.Arrow4{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 257px;
+    position: absolute;
+}

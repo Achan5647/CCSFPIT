@@ -1,0 +1,1607 @@
+.AboutPage{
+    width: 1920px;
+    height: 14367px;
+    position: relative;
+    background: #363636;
+}
+.Title{
+    width: 1920px; 
+    height: 712px; 
+    left: 0px; 
+    top: 100px; 
+    position: absolute;
+}
+.BackgroundImage{
+    width: 1920px; 
+    height: 712px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+.CoverOverlay{
+    width: 1920px; 
+    height: 712px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.60) 29%, rgba(0, 0, 0, 0.60) 79%, black 100%);
+}
+.Aboutpage{
+    left: 883px; 
+    top: 243px; 
+    position: absolute; 
+    color: white; 
+    font-size: 64px; 
+    font-family: Oxanium; 
+    font-weight: 600; 
+    letter-spacing: 3.84px; 
+    word-wrap: break-word;
+}
+.InformationTechnology{
+    width: 1467px; height: 175px; left: 263px; top: 323px; position: absolute; text-align: center; color: white; font-size: 100px; font-family: Patua One; font-weight: 400; letter-spacing: 6px; word-wrap: break-word
+}
+.Navbar{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: sticky;
+    z-index: 999;
+}
+.Navigation{
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+    border-bottom: 5px white solid;
+}
+.CCSFP{
+    left: 191px;
+    top: 23px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    word-wrap: break-word
+}
+.ItLogo{
+    width: 76px;
+    height: 71px;
+    left: 100px;
+    top: 15px;
+    position: absolute;
+}
+.Nav{
+    width: 909px;
+    height: 52px;
+    left: 911px;
+    top: 23px;
+    position: absolute;
+}
+.Navbar a{
+    color: white;
+    font-size: 36px;
+    font-family: "Monomaniac One", sans-serif;
+    font-weight: 400;
+    letter-spacing: 2.16px;
+    position: absolute;
+    word-wrap: break-word;
+    top: 0px;
+    text-decoration: none;
+    transition: .45s;
+}
+.Navbar a:hover{
+    cursor: pointer;
+    color: #185D89;
+}
+.Home{
+    left: 0px;
+}
+.About{
+    left: 163px;
+}
+.Gallery{
+    left: 357px;
+}
+.News{
+    left: 596px;
+}
+.Contact{
+    left: 763px;
+}
+.AcademicDepartment{
+    width: 1921px;
+    height: 3430px; 
+    left: -1px; 
+    top: 812px;
+    position: absolute;
+}
+.CareerOpportunities{
+    width: 1920.98px; 
+    height: 959px; 
+    left: 0.02px; 
+    top: 2471px; 
+    position: absolute;
+}
+.Image1{
+    width: 1920px; 
+    height: 959px; 
+    left: 0.98px; 
+    top: 0px; 
+    position: absolute;
+}
+.OverlayCareerOp{
+    width: 898px; 
+    height: 959px; 
+    left: 1022.98px; 
+    top: 0px; 
+    position: absolute;
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.25) 28%, rgba(0, 0, 0, 0) 48%, rgba(0, 0, 0, 0.25) 66%, black 100%);
+}
+.Rectangle1{
+    width: 1022.52px; 
+    height: 959px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.80) 34%, rgba(0, 0, 0, 0.80) 60%, black 100%);
+}
+.AcadProgram{
+    width: 1921px; 
+    height: 1236px; 
+    left: 0px; 
+    top: 1285px; 
+    position: absolute;
+}
+.Image2{
+    width: 1921px; 
+    height: 1167px; 
+    left: 0px; 
+    top: 19px;
+    position: absolute;
+}
+.Rectangle2{
+    width: 1921px; 
+    height: 1236px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.30) 34%, rgba(0, 0, 0, 0.35) 60%, black 100%);
+}
+.CoreAreasOfStudy{
+    width: 1920.98px; 
+    height: 1285px; 
+    left: 0.02px; 
+    top: 0px; 
+    position: absolute;
+}
+.Rectangle3{
+    width: 1920.98px; 
+    height: 1285px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, #363636 32%, #363636 70%, black 100%);
+}
+.AcademicDept{
+    width: 1285.66px; 
+    height: 120px; 
+    left: 354.18px; 
+    top: 50px; 
+    position: absolute; 
+    text-align: center;
+    color: white; 
+    font-size: 96px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 5.76px; 
+    word-wrap: break-word;
+}
+.Image3{
+    width: 798.41px; 
+    height: 1022px; 
+    left: 1022.52px;
+    top: 213px; 
+    position: absolute; 
+    border-radius: 75px;
+}
+.DeanAndFaculty{
+    width: 1920px;
+    height: 2999px;
+    left: 0px; 
+    top: 4231px; 
+    position: absolute;
+}
+.FacultyProfs{
+    width: 1920px; 
+    height: 2133px; 
+    left: 0px; 
+    top: 866px; 
+    position: absolute;   
+}
+.ItLOGO{
+    width: 1520px; 
+    height: 1693px; 
+    left: 200px; 
+    top: 227px; 
+    position: absolute;
+}
+.OverlayFaculty{
+    width: 1920px; 
+    height: 2117px; 
+    left: 0px; 
+    top: 16px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.75) 29%, rgba(0, 0, 0, 0.75) 79%, black 100%);
+}
+.SirJec{
+    width: 710px; 
+    height: 951px; 
+    left: 1010px; 
+    top: 1019px; 
+    position: absolute;
+}
+.Rectangle4{
+    width: 710px; 
+    height: 951px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(24, 24, 24, 0.50); 
+    border-radius: 50px; 
+    border: 5px white solid;
+}
+.Line1{
+    width: 570px; 
+    height: 0px; 
+    left: 70px; 
+    top: 110px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.JEC{
+    left: 97px; 
+    top: 50px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.40px; 
+    word-wrap: break-word;
+}
+.Professor1{
+    width: 385px; 
+    height: 34px; 
+    left: 162px; 
+    top: 125px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+}
+.SirJoseph{
+    width: 710px; 
+    height: 951px; 
+    left: 200px; 
+    top: 1019px; 
+    position: absolute;
+}
+.Rectangle5{
+    width: 710px; 
+    height: 951px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    background: rgba(24, 24, 24, 0.50); 
+    border-radius: 50px; 
+    border: 5px white solid;
+}
+.Line4{
+    width: 570px; 
+    height: 0px; 
+    left: 70px; 
+    top: 110px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.JJM{
+    left: 60px; 
+    top: 50px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.40px; 
+    word-wrap: break-word;
+}
+.Professor2{
+    width: 388px; 
+    height: 34px; 
+    left: 161px; 
+    top: 125px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+}
+.SirRomil{
+    width: 710px; 
+    height: 802px; 
+    left: 1010px; 
+    top: 140px; 
+    position: absolute;
+}
+.Rectangle6{
+    width: 710px; 
+    height: 802px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(24, 24, 24, 0.50); 
+    border-radius: 50px;
+    border: 5px white solid;
+}
+.Line5{
+    width: 570px; 
+    height: 0px; 
+    left: 70px; 
+    top: 110px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.RDJ{
+    left: 142px; 
+    top: 50px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px;
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.40px; 
+    word-wrap: break-word;
+}
+.Professor3{
+    width: 391px; 
+    height: 34px; 
+    left: 159px; 
+    top: 125px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Arial; 
+    font-weight: 400;
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+}
+.SirJus{
+    width: 710px; 
+    height: 802px; 
+    left: 200px; 
+    top: 140px; 
+    position: absolute;
+}
+.Rectangle7{
+    width: 710px; 
+    height: 802px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(24, 24, 24, 0.50); 
+    border-radius: 50px; 
+    border: 5px white solid;
+}
+.Group1{
+    width: 570px; 
+    height: 109px; 
+    left: 70px; 
+    top: 50px; 
+    position: absolute;
+}
+.Professor4{
+    width: 431px; 
+    height: 34px; 
+    left: 69px; 
+    top: 75px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+}
+.Line6{
+    width: 570px; 
+    height: 0px; 
+    left: 0px; 
+    top: 60px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.JGF{
+    left: 26px; 
+    top: 0px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 2.40px; 
+    word-wrap: break-word;
+}
+.CcsfpItFaculty{
+    width: 942px; 
+    height: 120px; 
+    left: 489px; 
+    top: 0px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 96px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 5.76px;
+    word-wrap: break-word;
+}
+.Dean{
+    width: 1920px; 
+    height: 882px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute;
+}
+.CcsfpOldBuilding{
+    width: 1920px; 
+    height: 871px; 
+    left: 0px; 
+    top: 11px; 
+    position: absolute;
+}
+.OverlayDean{
+    width: 1920px; 
+    height: 882px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.75) 29%, rgba(0, 0, 0, 0.75) 79%, black 100%);
+}
+.Line7{
+    width: 933px; 
+    height: 0px; 
+    left: 498px; 
+    top: 802px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.AMF{
+    left: 580px; 
+    top: 730px; 
+    position: absolute; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Arial; 
+    font-weight: 700;
+    letter-spacing: 2.88px; 
+    word-wrap: break-word;
+}
+.ItDean1{
+    width: 400px; 
+    height: 400px; 
+    left: 760px; 
+    top: 278px; 
+    position: absolute; 
+    border-radius: 450px; 
+    border: 10px white solid;
+}
+.CcsfpItDean{
+    width: 789px; 
+    height: 120px; 
+    left: 565px; 
+    top: 106px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 96px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 5.76px; 
+    word-wrap: break-word;
+}
+.BorderDeanFaculty{
+    width: 1720px; 
+    height: 2876px; 
+    left: 100px; 
+    top: 56px; 
+    position: absolute; 
+    border: 10px white solid;
+}
+.ItStudents{
+    width: 1920px; 
+    height: 6675px; 
+    left: 0px;
+    top: 7230px; 
+    position: absolute;
+}
+.PlAndDl{
+    width: 1920px; 
+    height: 4796px; 
+    left: 0px; 
+    top: 1879px; 
+    position: absolute;
+}
+.OverlayPlDl{
+    width: 1920px; 
+    height: 4796px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.50) 15%, black 29%, rgba(0, 0, 0, 0.50) 64%, black 100%);
+}
+.Dl{
+    width: 1720px; 
+    height: 3308px; 
+    left: 100px; 
+    top: 1438px; 
+    position: absolute;
+}
+.DlPictures{
+    width: 1522px; 
+    height: 2962px; 
+    left: 100px; 
+    top: 284px; 
+    position: absolute;
+}
+.Dl1{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl2{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 0px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl3{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 502px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl4{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 502px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl5{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 1004px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl6{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 1004px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl7{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 1506px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl8{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 1506px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl9{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 2008px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl10{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 2008px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl11{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 2510px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Dl12{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 2510px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.BorderDl{
+    width: 1720px; 
+    height: 3239px; 
+    left: 0px; 
+    top: 69px; 
+    position: absolute; 
+    border: 10px white solid;
+}
+.AcademicYear20222023{
+    width: 800px; 
+    height: 60px; 
+    left: 460px; 
+    top: 190px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 2.88px; 
+    word-wrap: break-word;
+}
+.Rectangle8{
+    width: 710px; 
+    height: 150px; 
+    left: 505px; 
+    top: 0px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 50px;
+}
+.DeanSListers{
+    width: 1173px; 
+    height: 120px; 
+    left: 273px; 
+    top: 39px; 
+    position: absolute; 
+    text-align: center; 
+    color: #040404; 
+    font-size: 64px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 3.84px; 
+    word-wrap: break-word;
+}
+.Pl{
+    width: 1720px; 
+    height: 1300px; 
+    left: 100px; 
+    top: 50px; 
+    position: absolute;
+}
+.PlPictures{
+    width: 1522px; 
+    height: 954px; 
+    left: 100px; 
+    top: 284px; 
+    position: absolute;
+}
+.Pl1{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 502px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Pl2{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 502px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Pl3{
+    width: 735px; 
+    height: 452px; 
+    left: 787px; 
+    top: 0px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.Pl4{
+    width: 735px; 
+    height: 452px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    border: 5px white solid;
+}
+.BorderPl{
+    width: 1720px; 
+    height: 1231px; 
+    left: 0px; 
+    top: 69px; 
+    position: absolute; 
+    border: 10px white solid;
+}
+.Year20232023{
+    width: 800px; 
+    height: 60px; 
+    left: 460px; 
+    top: 190px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 2.88px; 
+    word-wrap: break-word;
+}
+.Rectangle9{
+    width: 910px; 
+    height: 150px; 
+    left: 405px; 
+    top: 0px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 50px;
+}
+.PresidentSListers{
+    width: 1173px; 
+    height: 120px; 
+    left: 273px; 
+    top: 39px; 
+    position: absolute; 
+    text-align: center; 
+    color: #040404; 
+    font-size: 64px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 3.84px; 
+    word-wrap: break-word;
+}
+.StudentCouncil{
+    width: 1920px; 
+    height: 1879px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+.OverlayItStudents{
+    width: 1920px; 
+    height: 1879px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0.50) 29%, rgba(0, 0, 0, 0.50) 79%, black 100%);
+}
+.CcsfpNewCampus1{
+    width: 1720px; 
+    height: 1554px; 
+    left: 100px; 
+    top: 267px; 
+    position: absolute;
+}
+.BlueOverlay{
+    width: 1720px; 
+    height: 1560px; 
+    left: 100px; 
+    top: 261px; 
+    position: absolute; 
+    background: linear-gradient(180deg, black 0%, rgba(6, 27, 67, 0.80) 25%, rgba(6, 27, 67, 0.80) 62%, black 100%);
+}
+.firstYear{
+    width: 379px; 
+    height: 455px; 
+    left: 1377px; 
+    top: 1330px; 
+    position: absolute;
+}
+.firstYearRep{
+    width: 305px; 
+    height: 70px; 
+    left: 40px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line8{
+    width: 367px; 
+    height: 0px; 
+    left: 6px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.TV{
+    width: 400px; 
+    left: 0px; 
+    top: 329px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.44px; 
+    word-wrap: break-word;
+}
+.FYR{
+    width: 305px; 
+    height: 303px; 
+    left: 38px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.secondYear{
+    width: 367px; 
+    height: 455px; 
+    left: 978px; 
+    top: 1330px; 
+    position: absolute;
+}
+.secondYearRep{
+    width: 305px; 
+    height: 70px; 
+    left: 32px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line9{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.AT{
+    left: 34px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.SYR{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.thirdYear{
+    width: 367px; 
+    height: 455px; 
+    left: 573px; 
+    top: 1330px; 
+    position: absolute;
+}
+.thirdYearRep{
+    width: 305px; 
+    height: 70px; 
+    left: 31px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line10{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.JV{
+    left: 22px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.TYR{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.fourthYear{
+    width: 367px; 
+    height: 455px; 
+    left: 166px; 
+    top: 1330px; 
+    position: absolute;
+}
+.fourthYearRep{
+    width: 305px; 
+    height: 70px; 
+    left: 34px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line11{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.IS{
+    left: 58px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.FYR{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.Auditor{
+    width: 367px; 
+    height: 419px; 
+    left: 1181px; 
+    top: 861px; 
+    position: absolute;
+}
+.Audit{
+    width: 170px; 
+    height: 34px; 
+    left: 99px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line12{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.JC{
+    left: 20px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.A{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.Treasurer{
+    width: 367px; 
+    height: 419px; 
+    left: 776px; 
+    top: 861px; 
+    position: absolute;
+}
+.Treasure{
+    width: 219px; 
+    height: 34px; 
+    left: 75px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line13{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.GL{
+    left: 54px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.T{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.Secretary{
+    width: 367px; 
+    height: 419px; 
+    left: 371px; 
+    top: 861px; 
+    position: absolute;
+}
+.Sec{
+    width: 218px; 
+    height: 34px; 
+    left: 76px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line14{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.SA{
+    left: 51px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.S{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.VicePresident{
+    width: 367px; 
+    height: 419px; 
+    left: 978px; 
+    top: 392px; 
+    position: absolute;
+}
+.VicePres{
+    width: 288px; 
+    height: 34px; 
+    left: 41px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line15{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.JS{
+    left: 16px; 
+    top: 325px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.VP{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.President{
+    width: 367px; 
+    height: 419px; 
+    left: 573px; 
+    top: 392px; 
+    position: absolute;
+}
+.Pres{
+    width: 209px; 
+    height: 34px; 
+    left: 80px; 
+    top: 385px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 27px; 
+    font-family: Arial; 
+    font-weight: 400; 
+    letter-spacing: 1.62px; 
+    word-wrap: break-word;
+}
+.Line16{
+    width: 367px; 
+    height: 0px; 
+    left: 0px; 
+    top: 373px; 
+    position: absolute; 
+    border: 2.50px white solid;
+}
+.MB{
+    left: 13px; 
+    top: 324px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Arial; 
+    font-weight: 700; 
+    letter-spacing: 1.92px; 
+    word-wrap: break-word;
+}
+.P{
+    width: 305px; 
+    height: 303px; 
+    left: 32px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 1000px; 
+    border: 5px white solid;
+}
+.BorderStudentCouncil{
+    width: 1720px; 
+    height: 1568px; 
+    left: 100px; 
+    top: 261px; 
+    position: absolute; 
+    border: 10px white solid;
+}
+.Rectangle10{
+    width: 810px; 
+    height: 150px; 
+    left: 555px; 
+    top: 192px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 50px;
+}
+.StudentCouncilof{
+    width: 1173px; 
+    height: 120px; 
+    left: 373px; 
+    top: 231px; 
+    position: absolute; 
+    text-align: center; 
+    color: #040404; 
+    font-size: 64px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 3.84px; 
+    word-wrap: break-word;
+}
+.CcsfpItStudents{
+    width: 1049px; 
+    height: 120px; 
+    left: 435px; 
+    top: 39px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 96px; 
+    font-family: Oxanium; 
+    font-weight: 700; 
+    letter-spacing: 5.76px; 
+    word-wrap: break-word;
+}
+.Footer{
+    width: 1920px;
+    height: 462px;
+    left: -1px;
+    top: 13905px;
+    position: absolute;
+}
+.Rectangle11{
+    width: 1920px;
+    height: 462px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #181818;
+}
+.divide{
+    width: 284.02px;
+    height: 0px;
+    left: 1150px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line2{
+    width: 284.02px;
+    height: 0px;
+    left: 753px;
+    top: 335.02px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 2px white solid;
+}
+.Line3{
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 388px;
+    position: absolute;
+    border: 3px white solid;
+}
+.ReachUs{
+    left: 101px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.brgy{
+    width: 630px;
+    height: 70px;
+    left: 175px;
+    top: 123px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.HOME{
+    left: 825px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ccsfp{
+    left: 1262px;
+    top: 134px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.CCSFPIT{
+    left: 1262px;
+    top: 212px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.website{
+    left: 1262px;
+    top: 279px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: underline;
+}
+.number{
+    left: 175px;
+    top: 287px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.Info{
+    left: 175px;
+    top: 217px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.QuickLinks{
+    left: 780px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.ConnectWithUs{
+    width: 446px;
+    left: 1183px;
+    top: 50px;
+    position: absolute;
+    text-align: justify;
+    color: white;
+    font-size: 42px;
+    font-family: "Oxanium", sans-serif;
+    font-weight: 600;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+}
+.loc{
+    width: 40px;
+    height: 42px;
+    left: 115px;
+    top: 137px;
+    position: absolute;
+}
+.email{
+    width: 38px;
+    height: 31px;
+    left: 115px;
+    top: 219px;
+    position: absolute;
+}
+.phone{
+    width: 35px;
+    height: 35px;
+    left: 117px;
+    top: 287px;
+    position: absolute;
+}
+.NEWS{
+    left: 825px;
+    top: 253px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.GALLERY{
+    left: 825px;
+    top: 214px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ABOUT{
+    left: 825px;
+    top: 174px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+.ARR{
+    left: 525px;
+    top: 408px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.38px;
+    word-wrap: break-word;
+}
+.fb1{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 129px;
+    position: absolute;
+}
+.fb2{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 207px;
+    position: absolute;
+}
+.web{
+    width: 47px;
+    height: 47px;
+    left: 1196px;
+    top: 273px;
+    position: absolute;
+}
+.copyright{
+    width: 20px;
+    height: 21.05px;
+    left: 499px;
+    top: 415px;
+    position: absolute;
+}
+.Arrow1{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 137px;
+    position: absolute;
+}
+.Arrow2{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 177px;
+    position: absolute;
+}
+.Arrow3{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 217px;
+    position: absolute;
+}
+.Arrow4{
+    width: 30px;
+    height: 30px;
+    left: 790px;
+    top: 257px;
+    position: absolute;
+}
